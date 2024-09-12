@@ -13,6 +13,6 @@ function concatenaArray(palavras) {
     }
 console.log(concatenaArray([]));
 
-
+//código para passar po um array
 
 
