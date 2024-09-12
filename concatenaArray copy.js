@@ -15,7 +15,4 @@ console.log(concatenaArray([]));
 
 
 
-//"abacate","fresco"
-
-
 
